@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanskarJain007
 - 👀 I’m interested in coding and software
 - 🌱 I’m currently learning Coding Languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development opportunites.
 - 📫 How to reach me @imsanskarjain on Instagram
 
 <!---
