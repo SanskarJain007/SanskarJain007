@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsanskarjain" target="blank"><img src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge" alt="imsanskarjain" /></a> 
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Python, JavaScript**
 
 - 💬 Ask me about **HTML and CSS**
 
