@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanskarJain007
 - 👀 I’m interested in coding and software
-- 🌱 I’m currently learning Coding Languages
+- 🌱 I’m currently learning **Python and JavaScript**
 - 💞️ I’m looking to collaborate on Web Development opportunites.
 - 📫 How to reach me @imsanskarjain on Twitter and Instagram
 
@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
  
 | :---: | :---: | :---: | :---: | :---: | :---: |
  
-[![Sanskar's github stats](https://github-readme-stats.vercel.app/api?username=SanskarJain007)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -26,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/imsanskarjain" target="blank"><img src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge" alt="imsanskarjain" /></a> </p>
 
-- 🌱 I’m currently learning **Python and JavaScript**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
