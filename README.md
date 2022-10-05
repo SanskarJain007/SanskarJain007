@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarjain007" alt="sanskarjain007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imsanskarjain" target="blank"><img src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge" alt="imsanskarjain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imsanskarjain" target="blank"><img src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge" alt="imsanskarjain" /></a> 
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
 - 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **jsanskar049@gmail.com**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sanskarjain007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanskarjain007" height="30" width="40" /></a>
