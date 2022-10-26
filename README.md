@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanskar Jain</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sanskar Jain</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanskarjain007&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjain007" /> </p>
