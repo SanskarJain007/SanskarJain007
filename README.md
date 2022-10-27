@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sanskar Jain</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanskarjain007&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjain007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SanskarJain007&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjain007" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarjain007" alt="sanskarjain007" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanskarJain007" alt="sanskarjain007" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/imsanskarjain" target="blank"><img src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge" alt="imsanskarjain" /></a> </p>
 
