@@ -39,5 +39,6 @@
 <a href="http://www.github.com/SanskarJain007"><img src="https://activity-graph.herokuapp.com/graph?username=SanskarJain007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 </details>
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/SanskarJain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SanskarJain" /></a></p><br><br>
 
