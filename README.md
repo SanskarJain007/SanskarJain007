@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://tenor.com/view/welcome-colorful-text-youre-welcome-gif-17754974" alt="Welcome"/></p>
+
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sanskar Jain</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
