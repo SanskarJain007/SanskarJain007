@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sanskar Jain<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanskarJain007&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjain007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanskarJain007&label=Profile%20views&color=0d149e&style=flat" alt="sanskarjain007" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
