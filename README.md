@@ -6,7 +6,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{SanskarJain007}1212%2Fhit-counter"/>
 
 <p align="left"> <a href="https://twitter.com/imsanskarjain" target="blank"><img src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge" alt="imsanskarjain" /></a> </p>
 
