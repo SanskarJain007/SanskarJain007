@@ -51,6 +51,8 @@
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{SanskarJain007}/count.svg)
 
+**Github Metrics**
+![GitHub metrics](https://metrics.lecoq.io/SanskarJain007)
 </div> 
 </details>
 <h3 align="left">Support:</h3>
