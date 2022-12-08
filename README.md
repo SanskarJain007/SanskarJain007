@@ -46,7 +46,12 @@
 <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=SanskarJain007&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-  
+ <div align = "center">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{SanskarJain007}/count.svg)
+
+</div> 
 </details>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SanskarJain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SanskarJain" /></a></p><br><br>
