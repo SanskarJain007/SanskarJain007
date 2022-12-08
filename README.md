@@ -5,10 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanskarJain007&label=Profile%20views&color=0d149e&style=flat" alt="sanskarjain007" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{SanskarJain007}1212%2Fhit-counter"/>
 
-<p align="left"> <a href="https://twitter.com/imsanskarjain" target="blank"><img src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge" alt="imsanskarjain" /></a> </p>
+<p align="left"> <a href="https://www.twitter.com/imsanskarjain" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"/></a> 
+<br>
+<a href="https://www.github.com/SanskarJain007" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a></p>
 
 - 🌱 I’m currently learning **Java-DSA and JavaScript**
 
@@ -32,15 +34,15 @@
 ## Stats
 <details open align="center">
 <summary>GitHub Stats</summary>
+<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SanskarJain007"><img src="https://github-readme-stats.vercel.app/api?username=SanskarJain007&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdelrahmanDwedar's GitHub stats" /></a>
+<a href="http://www.github.com/SanskarJain007"><img src="https://github-readme-stats.vercel.app/api?username=SanskarJain007&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="SanskarJain007's GitHub stats" /></a>
 
-<a href="http://www.github.com/SanskarJain007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarJain007&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SanskarJain007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarJain007&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="https://github.com/SanskarJain007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarJain007&langs_count=10&title_color=3382ed&text_color=68e813&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/SanskarJain007"><img src="https://activity-graph.herokuapp.com/graph?username=SanskarJain007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<a href="https://github.com/SanskarJain007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarJain007&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
+<a href="http://www.github.com/SanskarJain007"><img src="https://activity-graph.herokuapp.com/graph?username=SanskarJain007&bg_color=0f172a&color=facc15&line=0891b2&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  ##  🏆 Github Profile Trophy
 
 <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
