@@ -57,6 +57,7 @@ src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=fo
 |![](https://github-profile-trophy.vercel.app/?username=SanskarJain007&theme=onedark&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)|
 |---|
 
+</details>
  
 **✍️ Random Dev Quote**:
 <div align="center">
@@ -74,7 +75,6 @@ src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=fo
    
 ### Show some ❤️ by starring some of the repositories!
   
-</details>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SanskarJain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SanskarJain" /></a></p><br><br>
 
