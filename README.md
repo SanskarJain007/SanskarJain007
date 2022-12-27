@@ -42,21 +42,26 @@ src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=fo
 
 <a href="https://github.com/SanskarJain007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarJain007&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
-<a href="http://www.github.com/SanskarJain007"><img src="https://activity-graph.herokuapp.com/graph?username=SanskarJain007&bg_color=0f172a&color=facc15&line=0891b2&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  ##  🏆 Github Profile Trophy
+<div align="center">
 
-<a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SanskarJain007&column=8&theme=gruvbox&no-frame=true"/>
-</a>
- <div align = "center">
+
+|![](https://github-profile-trophy.vercel.app/?username=SanskarJain007&theme=onedark&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)|
+|---|
+
+ 
+**✍️ Random Dev Quote**:
+<div align="center">
+  
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
+|---|
+  
+  </div>
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{SanskarJain007}/count.svg)
-
-**Github Metrics**
-![GitHub metrics](https://metrics.lecoq.io/SanskarJain007)
-</div> 
-  
+  </div> 
+   
 ### Show some ❤️ by starring some of the repositories!
   
 </details>
