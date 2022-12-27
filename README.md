@@ -2,21 +2,26 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sanskar Jain<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanskarJain007&label=Profile%20views&color=0d149e&style=flat" alt="sanskarjain007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SanskarJain007&label=Profile%20views&color=0d149e&style=flat" alt="sanskarjain007" /> </p>
 <a target="_blank" align="center">
  
-<p align="left"> <a href="https://www.twitter.com/imsanskarjain" target="_blank" rel="noreferrer"><img
+<p align="center"> <a href="https://www.twitter.com/imsanskarjain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"/></a> 
 <br>
 <a href="https://www.github.com/SanskarJain007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a></p>
 
-- 🌱 I’m currently learning **Java-DSA and JavaScript**
+```yaml 
+ 
+- 🌱 I’m currently learning **C++-DSA and JavaScript**
 
 - 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **jsanskar049@gmail.com**
-
+ 
+- 🫂 Follow for more 
+ ```
+ 
 <h3 align="left">Connect with me:<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
 <p align="left">
 <a href="https://codepen.io/sanskarjain007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanskarjain007" height="30" width="40" /></a>
@@ -59,7 +64,9 @@ src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=fo
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
   
-  </div>
+</div>
+ 
+
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{SanskarJain007}/count.svg)
