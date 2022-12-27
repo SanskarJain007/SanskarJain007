@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanskarJain007&label=Profile%20views&color=0d149e&style=flat" alt="sanskarjain007" /> </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
+ 
 <p align="left"> <a href="https://www.twitter.com/imsanskarjain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/imsanskarjain?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"/></a> 
 <br>
