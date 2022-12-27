@@ -59,22 +59,21 @@ src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=fo
 
 </details>
  
+<div align="center"> 
 **✍️ Random Dev Quote**:
-<div align="center">
+
   
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
   
-</div>
- 
 
- 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{SanskarJain007}/count.svg)
-  </div> 
    
 ### Show some ❤️ by starring some of the repositories!
-  
+</div>  
+ 
+<hr> 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SanskarJain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SanskarJain" /></a></p><br><br>
 
