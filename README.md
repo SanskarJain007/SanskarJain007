@@ -66,7 +66,12 @@ src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=fo
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 
-  
+
+ ## Watch my contribution graph being eaten by a Snake! 🐍
+ 
+ 
+![snake gif](https://github.com/SanskarJain007/SanskarJain007/blob/output/github-contribution-grid-snake.gif) 
+ 
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{SanskarJain007}/count.svg)
