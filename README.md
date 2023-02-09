@@ -66,6 +66,9 @@ src="https://img.shields.io/github/followers/SanskarJain007?logo=github&style=fo
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 
+ 
+ [![Sanskar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SanskarJain007&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 
  ## Watch my contribution graph being eaten by a Snake! 🐍
  
